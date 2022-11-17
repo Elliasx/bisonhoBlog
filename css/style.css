@@ -78,8 +78,69 @@ body{
 .postagem a:hover{
     text-decoration: underline;
 }
+.postagem1{
+    padding: 1rem;
+    background-color: #fff;
+    margin-top: 1rem;
+}
+.postagem-imagem1{
+    width: 39rem;
+}
+.postagem-titulo1{
+    color: #f7b600;
+}
+.postagem-data1{
+    font-size: 0.8rem;
+    display: block;
+    padding-bottom: 0.8rem;
+}
+.postagem1 p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 0.5rem;
+}
+.postagem1 a{
+    text-decoration: none;
+}
+.postagem1 a:visited, .postagem1 a:link{
+    color: #f7b600;
+}
+.postagem1 a:hover{
+    text-decoration: underline;
+}
+.postagem2{
+    padding: 1rem;
+    background-color: #fff;
+    margin-top: 1rem;
+}
+.postagem-imagem2{
+    width: 39rem;
+}
+.postagem-titulo2{
+    color: #f7b600;
+}
+.postagem-data2{
+    font-size: 0.8rem;
+    display: block;
+    padding-bottom: 0.8rem;
+}
+.postagem2 p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 0.5rem;
+}
+.postagem2 a{
+    text-decoration: none;
+}
+.postagem2 a:visited, .postagem2 a:link{
+    color: #f7b600;
+}
+.postagem2 a:hover{
+    text-decoration: underline;
+}
 .conteudo-lateral{
-    display:;
     background-color: #fff;
     padding: 0.8rem;
     margin-bottom: 0.7rem;
